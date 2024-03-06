@@ -1,6 +1,6 @@
 # AI Library
 
-![AI Library](./image/ai.png)
+<img src="./image/ai.png" alt="AI Library" width="300"/>
 
 Bu proje, yapay zeka ve doğal dil işleme konularında bir kütüphane sunmaktadır. İçerisinde, yapay zeka ve doğal dil işleme konularında sıkça kullanılan terimlerin açıklamalarını içeren bir veritabanı bulunmaktadır. Ayrıca, bu terimlerin listelendiği bir arayüz sunulmaktadır.
 
