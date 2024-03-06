@@ -17,3 +17,14 @@ Proje kullanımı oldukça basittir. Öncelikle projeyi klonlayın:
 
 ```bash
 git clone https://github.com/kullaniciadi/AI-Library.git
+```
+Daha sonra, proje dizinine gidin ve gerekli bağımlılıkları yükleyin:
+```bash
+
+cd AI-Library
+npm install
+```
+Projeyi başlatmak için:
+```bash
+npm start
+```
