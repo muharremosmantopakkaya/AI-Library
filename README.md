@@ -1,8 +1,7 @@
 # AI Library
 
-<div style="background-color: #f9f9f9; padding: 10px; display: inline-block; border: 1px solid #ddd; border-radius: 8px;">
-  <img src="./image/ai.png" alt="AI Library" width="275" style="border-radius: 8px;">
-</div>
+<img src="./image/ai.png" alt="AI Library" width="300" height="200" style="border: 1px solid #ddd; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);">
+
 
 Bu proje, yapay zeka ve doğal dil işleme konularında bir kütüphane sunmaktadır. İçerisinde, yapay zeka ve doğal dil işleme konularında sıkça kullanılan terimlerin açıklamalarını içeren bir veritabanı bulunmaktadır. Ayrıca, bu terimlerin listelendiği bir arayüz sunulmaktadır.
 
